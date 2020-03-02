@@ -1,0 +1,11 @@
+tables: jcsj_traffic_sign
+localhost:
+
+  author: yys
+
+spring:
+  datasource:
+    url: jdbc:mysql://47.108.55.157:3306/cistdb?useUnicode=true&characterEncoding=utf8
+    driverClassName: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
